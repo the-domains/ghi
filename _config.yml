@@ -1,0 +1,28 @@
+name: GHI
+favicon: null
+layout_spectrum: 0.2494398313574493
+typography_spectrum: 0.025031630415469408
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3406821540556848
+  lightness: 0.028319318080320954
+  saturation: 0.31323628313839436
+  rhythmicContrast: 0.7039428371936083
+purpose: []
